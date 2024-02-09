@@ -4,10 +4,9 @@ Welcome to my GitHub profile! 👋 I'm an ethical hacker and IT assistant passio
 
 ## About Me
 
-- 💼 Currently working as an IT Assistant and Security Associate as a Freelancer.
+- 💼 Currently working as an IT Assistant and Offensive Security Service Provider as a Freelancer.
 - 🎓 Diplomatic Student of IT from Donbosco Technical collage.
 - 🎓 Diplomatic Student of Ethical Hacking from Alison University.
-- 🌐 
 
 ## Ethical Hacking Skills
 
